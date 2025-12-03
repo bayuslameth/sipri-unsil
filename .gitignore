@@ -1,0 +1,4 @@
+# CodeIgniter 4 - jangan commit ini!
+writable/session/*
+writable/cache/*
+.env

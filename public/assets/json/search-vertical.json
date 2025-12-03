@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "name": "Dashboard",
+      "icon": "bx-home-circle",
+      "url": "/dashboard"
+    },
+    {
+      "name": "Biolink Saya",
+      "icon": "bx-link",
+      "url": "/biolink"
+    },
+    {
+      "name": "Shortlink",
+      "icon": "bx-link-external",
+      "url": "/shortlink"
+    },
+    {
+      "name": "Tampilan Profil",
+      "icon": "bx-user-pin",
+      "url": "/my-profile"
+    },
+    {
+      "name": "Daftar Katalog",
+      "icon": "bx-detail",
+      "url": "/items"
+    },
+    {
+      "name": "Daftar Pesanan",
+      "icon": "bx-receipt",
+      "url": "/orders"
+    },
+    {
+      "name": "Statistik",
+      "icon": "bx-line-chart",
+      "url": "/statistics"
+    },
+    {
+      "name": "Penghasilan",
+      "icon": "bx-money-withdraw",
+      "url": "/income"
+    },
+    {
+      "name": "Notifikasi",
+      "icon": "bx-bell",
+      "url": "/notifications"
+    },
+    {
+      "name": "FAQ",
+      "icon": "bx-help-circle",
+      "url": "/faq"
+    }
+  ]
+}

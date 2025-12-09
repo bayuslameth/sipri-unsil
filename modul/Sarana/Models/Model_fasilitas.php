@@ -16,8 +16,8 @@ class Model_fasilitas extends Model
 
     protected $allowedFields      = [
         'nama_fasilitas',
-        'tipe',
-        'kondisi',
+        'tipe', // 1 ruang 2 barang
+        'kondisi', 
     ];
 
 }
